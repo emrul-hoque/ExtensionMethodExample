@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Emrul\\C-Sharp\\repos\\ExtensionMethodExample\\ExtensionMethodExample.csproj",
+      "projectUniqueName": "E:\\Emrul\\C-Sharp\\repos\\Extension-Method-Example\\ExtensionMethodExample.csproj",
       "projectName": "ExtensionMethodExample",
-      "projectPath": "E:\\Emrul\\C-Sharp\\repos\\ExtensionMethodExample\\ExtensionMethodExample.csproj",
+      "projectPath": "E:\\Emrul\\C-Sharp\\repos\\Extension-Method-Example\\ExtensionMethodExample.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Emrul\\C-Sharp\\repos\\ExtensionMethodExample\\obj\\",
+      "outputPath": "E:\\Emrul\\C-Sharp\\repos\\Extension-Method-Example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\bin\Debug\net6.0\ExtensionMethodExample.exe
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\bin\Debug\net6.0\ExtensionMethodExample.deps.json
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\bin\Debug\net6.0\ExtensionMethodExample.runtimeconfig.json
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\bin\Debug\net6.0\ExtensionMethodExample.dll
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\bin\Debug\net6.0\ExtensionMethodExample.pdb
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ExtensionMethodExample.csproj.AssemblyReference.cache
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ExtensionMethodExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ExtensionMethodExample.AssemblyInfoInputs.cache
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ExtensionMethodExample.AssemblyInfo.cs
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ExtensionMethodExample.csproj.CoreCompileInputs.cache
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ExtensionMethodExample.dll
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\refint\ExtensionMethodExample.dll
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ExtensionMethodExample.pdb
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ExtensionMethodExample.genruntimeconfig.cache
+E:\Emrul\C-Sharp\repos\Extension-Method-Example\obj\Debug\net6.0\ref\ExtensionMethodExample.dll
