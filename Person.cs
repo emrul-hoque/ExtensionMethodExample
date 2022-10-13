@@ -2,7 +2,6 @@ using System;
 
 namespace ExtensionMethodExample
 {
-
     class Person
     {
 
