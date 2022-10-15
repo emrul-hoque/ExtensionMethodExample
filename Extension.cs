@@ -6,7 +6,7 @@ namespace ExtensionMethodExample
     {
         public static string GetInfo (this Person person)
         {
-            return "ID "+ person.ID + "; Name: " + person.Name + "; Address: " + person.Address ;
+            return "ID:\t\t"+ person.ID + ";\nName:\t\t" + person.Name + ";\nAddress:\t" + person.Address ;
         }
     }
 }

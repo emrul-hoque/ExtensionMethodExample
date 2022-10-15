@@ -14,6 +14,7 @@ namespace ExtensionMethodExample
 
             var info = person.GetInfo();
             Console.WriteLine(info);
+            Console.Write("press any key ");
             Console.ReadKey();
         }
     }
