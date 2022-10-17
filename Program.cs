@@ -8,7 +8,9 @@ namespace ExtensionMethodExample
         {
             Person person = new Person();
 
-            person.ID = 101;
+            Console.WriteLine("Enter your ID number: ");
+            int id = Convert.ToInt32(Console.Read());
+            person.ID = id; //why is not showing the input from the user
             person.Name = "Jabir";
             person.Address = "ACT, Australia";
 
