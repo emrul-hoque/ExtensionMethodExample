@@ -4,15 +4,29 @@ namespace ExtensionMethodExample
 {
     class Program
     {
-        static void Main(string [] args)
+        static void Main(string[] args)
         {
             Person person = new Person();
 
-            Console.WriteLine("Enter your ID number: ");
-            int id = Convert.ToInt32(Console.Read());
-            person.ID = id; //why is not showing the input from the user
-            person.Name = "Jabir";
-            person.Address = "ACT, Australia";
+            Console.WriteLine("Enter the ID numbers: ");
+
+            string[] id = new string[5];
+
+            for (int i = 0; i < id.Length; i++)
+            {
+                id[i] = Console.ReadLine();
+                person.ID = id[i];
+            }
+
+                       
+            
+            Console.WriteLine("Enter your name: ");
+            var name = Console.ReadLine();
+            person.Name = name;
+
+            Console.WriteLine("Enter your address: ");
+            var address = Console.ReadLine();
+            person.Address = address;
 
             var info = person.GetInfo();
             Console.WriteLine(info);
